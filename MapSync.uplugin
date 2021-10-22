@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.3",
+	"FriendlyName": "MapSync",
+	"Description": "Make maps collaborating with your teammates !",
+	"Category": "Editor",
+	"CreatedBy": "Baptiste Hutteau",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/mapsync-plugin",
+	"SupportURL": "",
+	"EngineVersion": "4.23.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MapSync",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	]
+}
